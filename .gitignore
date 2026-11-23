@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.exe
+desktop.ini
+build/
+cmake-build-debug/
